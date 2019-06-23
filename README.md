@@ -19,3 +19,7 @@ gcc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Screenshots
+
+![Ftp Client](https://github.com/dusby/FtpClient/blob/master/screenshots/test.png)
